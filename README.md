@@ -69,7 +69,7 @@
       <th>LINK</th>
       <tr>
         <td>HTML_TASK_1</td>
-        <td><a href=""C:\Users\HP\OneDrive - vitap.ac.in\Desktop\MERN\html_task\HTMLtask1.html"">Link1</a></td>
+        <td><a href="C:\Users\HP\OneDrive - vitap.ac.in\Desktop\MERN\html_task\HTMLtask1.html">Link1</a></td>
       </tr>
       <tr>
         <td>HTML_TASK_2</td>
